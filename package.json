@@ -1,0 +1,19 @@
+{
+  "name": "react1st",
+  "version": "1.0.0",
+  "description": "this is a react course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BoonDocks-sl/react-init.git"
+  },
+  "author": "Supriya Limbole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoonDocks-sl/react-init/issues"
+  },
+  "homepage": "https://github.com/BoonDocks-sl/react-init#readme"
+}
